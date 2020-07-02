@@ -1,5 +1,5 @@
 #!/bin/bash
-WORK_PATH='/data/Honor-of-kings/server'
+WORK_PATH='/data/Honor-of-Kings/server/'
 cd $WORK_PATH
 echo '先清除老代码'
 git reset --hard origin/master
